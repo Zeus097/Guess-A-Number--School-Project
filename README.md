@@ -6,6 +6,7 @@
 "Guess A Number" is a simple console game
 
 The Goal of this game is to entertain
+Your opponent, "the computer", chooses a random number, and your task is to guess this number. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number.
 
 Used the build-in library - "random" in Python for The Computer choice
 Added color text using ANSI code in Python
