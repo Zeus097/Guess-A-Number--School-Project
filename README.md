@@ -20,11 +20,4 @@ if the number is incorrect(str, float, ...):
 
 
 ![01_Screenshot 2024-01-20 at 15 14 46](https://github.com/Zeus097/Guess-A-Number--School-Project/assets/142613528/f9392b71-4f62-4a73-9215-bdd1be24e4c0)
-
-
-
-
-
-
-
 ![02_Screenshot 2024-01-20 at 15 20 15](https://github.com/Zeus097/Guess-A-Number--School-Project/assets/142613528/69c42896-dd95-4e29-9832-d000b7893a62)
