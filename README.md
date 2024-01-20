@@ -1,5 +1,8 @@
 # Guess-A-Number--School-Project
 
+![1702659269165](https://github.com/Zeus097/Guess-A-Number--School-Project/assets/142613528/3ad0ea62-23c9-4579-b8e6-e2f306835937)
+
+
 "Guess A Number" is a simple console game
 
 The Goal of this game is to entertain
@@ -21,3 +24,6 @@ if the number is incorrect(str, float, ...):
 
 ![01_Screenshot 2024-01-20 at 15 14 46](https://github.com/Zeus097/Guess-A-Number--School-Project/assets/142613528/f9392b71-4f62-4a73-9215-bdd1be24e4c0)
 ![02_Screenshot 2024-01-20 at 15 20 15](https://github.com/Zeus097/Guess-A-Number--School-Project/assets/142613528/69c42896-dd95-4e29-9832-d000b7893a62)
+
+
+
