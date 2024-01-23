@@ -13,9 +13,10 @@ Your opponent, "the computer", chooses a random number, and your task is to gues
 # Added color text using ANSI code in Python
 
 # Input and Output:
-The player choose number in range
-    - for first level is [1-100];
-    - for second/final is [101-350])
+The player choose number in range:
+
+    for first level is [1-100];
+    for second/final is [101-350])
 If the number is correct (int):
   The player have 7 attempts and if he guess it, It will be asked for the second level.
 if the number is incorrect(str, float, ...):
