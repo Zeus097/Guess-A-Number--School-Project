@@ -19,7 +19,7 @@ If the number is correct (int):
 if the number is incorrect(str, float, ...):
   the player will be asked to try again
 
-# The game was created in Python source code.
+# The game was created in Python.
 
 # Gameplay screenshots:
 
