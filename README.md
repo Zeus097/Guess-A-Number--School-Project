@@ -18,7 +18,7 @@ The player choose number in range:(for first level is [1-100]; for second/final 
 If the number is correct (int):
   The player have 7 attempts and if he guess it, It will be asked for the second level.
 if the number is incorrect(str, float, ...):
-  the player will be asked to try again
+  the player will be asked to try again.
 
 # The game was created in Python.
 
